@@ -35,11 +35,15 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-
+ - I work as a Java Software Developer at [SAP](https://www.sap.com/index.html).
+ - I enjoy creating backend code but I also keen to work with frontend.
+ - I'm currently living in Poland and pursue my MSc degree.
+ - Feel free to rach me out :smile:
 
 <h2 align="left">:mag: Where You can reach me out:</h2>
 <p align="center">
   <a href="www.linkedin.com/in/latusikl"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
   <a href="mailto:latusikl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> 
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=l" alt="visitor badge"/>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=latusikl.welcome" alt="visitor badge"/>
