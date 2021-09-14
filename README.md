@@ -46,4 +46,4 @@
   <a href="mailto:latusikl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> 
 </p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=latusikl.welcome" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=latusikl.welcome.readme" alt="visitor badge"/>
