@@ -41,8 +41,13 @@
 
 <h2 align="left">:mag: Where You can reach me out:</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/latusikl"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-  <a href="mailto:latusikl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> 
+  <a href="//linkedin.com/in/latusikl" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+  </a>
+  <a href="mailto:latusikl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> 
+  </a> 
 </p>
+
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=latusikl.welcome.readme" alt="visitor badge"/>
