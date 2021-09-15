@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> 
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Groovy">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </div>
@@ -36,9 +35,9 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
  - I work as a Java Software Developer at [SAP](https://www.sap.com/index.html).
- - I enjoy creating backend code but I also keen to work with frontend.
+ - I enjoy creating backend code but I'm also keen to work with frontend.
  - I'm currently living in Poland and pursue my MSc degree.
- - Feel free to rach me out :smile:
+ - Feel free to reach me out :smile:
 
 <h2 align="left">:mag: Where You can reach me out:</h2>
 <p align="center">
