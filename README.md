@@ -1,7 +1,7 @@
 <img src="https://github.com/latusikl/latusikl/blob/main/welcome.gif" style="width:100%; heght:20%;" alt="Welcome to my GitHub">
 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies/Tools I mainly use</h2>
 <div style="display: flex; justify-content:space-around;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"> 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> 
@@ -20,9 +20,9 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- Software developer mainly focused on backend and micorservices.
-- Passionate about new technologies and always seeking opportunities to learn and further develop.
-- Based in Poland.
+- software developer focused on backend technologies
+- passionate about new technologies and always seeking opportunities to learn something new
+- based in Poland
 
 <h2 align="left">:mag: Where You can reach me:</h2>
 <p align="center">
@@ -34,5 +34,9 @@
   </a> 
 </p>
 
+<br>
+<br>
+<br>
+<br>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=latusikl.welcome.readme" alt="visitor badge"/>
+[![Profile views](https://u8views.com/api/v1/github/profiles/32513978/views/day-week-month-total-count.svg)](https://u8views.com/github/latusikl)
